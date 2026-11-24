@@ -22,7 +22,7 @@ I'm a Senior Software Engineer passionate about building scalable, reliable, and
 - **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB
 - **Caching & Messaging:** Redis, RabbitMQ
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, DigitalOcean, Git, GitHub Actions, CI/CD
-- **AI & Data:** Generative AI, LLMs, RAG, AI Agents, MCP, Pandas, NumPy
+- **AI & Data:** Generative AI, LLMs, RAG, AI Agents
 - **AI Development Tools:** GitHub Copilot, Cursor, ChatGPT, Claude Code
 
 ## 🚀 Areas of Interest
